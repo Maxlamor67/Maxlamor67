@@ -11,8 +11,11 @@ Retrouvez ici mes projets, allant de petits prototypes à des jeux plus aboutis.
 ## Mes projets:
 
 🐍 Snake en Assembleur
+
 🃏 Jeu de cartes Pokémon en Java
+
 🏢 Serious game sur les RH en entreprise
+
 ⚔️ ZombiSamourai (Projet en cours, Unity 3D)
 
 ## Pour me contacter:

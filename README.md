@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey, moi c'est Maxime !
 
-<!--
-**Maxlamor67/Maxlamor67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur passionné par le jeu vidéo | Étudiant en BUT Informatique
 
-Here are some ideas to get you started:
+Actuellement en deuxième année à l’IUT Robert Schuman, je développe des jeux vidéo en parallèle de mes études. J’ai déjà réalisé plusieurs projets, dont un Snake en assembleur, un jeu de cartes Pokémon en Java, ainsi qu’un jeu 3D sur Unity en cours de développement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je m’intéresse particulièrement à la programmation orientée objet, au développement Unity et aux mécaniques de gameplay. Mon objectif est de créer des expériences interactives immersives et engageantes.
+
+Retrouvez ici mes projets, allant de petits prototypes à des jeux plus aboutis. 
+
+## Mes projets:
+
+🐍 Snake en Assembleur
+🃏 Jeu de cartes Pokémon en Java
+🏢 Serious game sur les RH en entreprise
+⚔️ ZombiSamourai (Projet en cours, Unity 3D)
+
+## Pour me contacter:
+
+maxime.lamorlette2005@gmail.com

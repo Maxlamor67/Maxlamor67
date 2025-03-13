@@ -2,7 +2,7 @@
 
 Développeur passionné par le jeu vidéo | Étudiant en BUT Informatique
 
-Actuellement en deuxième année à l’IUT Robert Schuman, je développe des jeux vidéo en parallèle de mes études. J’ai déjà réalisé plusieurs projets, dont un Snake en assembleur, une adaptation du jeu de plateau Labyrinthe, un jeu de cartes Pokémon en Java, ainsi qu’un jeu 3D sur Unity en cours de développement.
+Actuellement en deuxième année à l’IUT Robert Schuman, je développe des jeux vidéo en parallèle de mes études. J’ai déjà réalisé plusieurs projets, dont un Snake en assembleur, une adaptation du jeu de plateau Labyrinthe en cours, un jeu de cartes Pokémon en Java, ainsi qu’un jeu 3D sur Unity en cours de développement.
 
 Je m’intéresse particulièrement à la programmation orientée objet, au développement Unity et aux mécaniques de gameplay. Mon objectif est de créer des expériences interactives immersives et engageantes.
 

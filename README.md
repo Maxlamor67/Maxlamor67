@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"  />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="800"  />
 </p>
 
-<h1>Hey, moi c’est Maxime</h1>
+<h1 align="center">Hey, moi c’est Maxime</h1>
 
 <p>
   Développeur passionné par le jeu vidéo <br/>
@@ -57,7 +57,8 @@ Mes technologies:
 
 ## Me contacter
 <p>
-  Email : maxime.lamorlette2005@gmail.com  
+  Email : maxime.lamorlette2005@gmail.com 
+  <b></b>
   Portfolio : https://maxime-lamorlette.vercel.app
 </p>
 ---

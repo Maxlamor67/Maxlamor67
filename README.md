@@ -1,44 +1,44 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"  />
 </p>
 
-<h1 align="center">Hey 👋, moi c’est Maxime</h1>
+<h1>Hey, moi c’est Maxime</h1>
 
-<p align="center">
-  🎮 Développeur passionné par le jeu vidéo <br/>
-  💻 Étudiant en BUT Informatique
+<p>
+  Développeur passionné par le jeu vidéo <br/>
+  Étudiant en BUT Informatique
 </p>
 
 ---
 
-## 👨‍💻 À propos de moi
+## À propos de moi
 
-Actuellement en **deuxième année de BUT Informatique à l’IUT Robert Schuman**,  
+Actuellement en **troisième année de BUT Informatique à l’IUT Robert Schuman**,  
 je développe des **jeux vidéo en parallèle de mes études**.
 
 J’ai déjà réalisé plusieurs projets, notamment :
 - un **Snake en assembleur**
 - une **adaptation du jeu de plateau Labyrinthe** (en cours)
 - un **jeu de cartes Pokémon en Java**
-- un **jeu 3D sous Unity** actuellement en développement
+- un **jeu 2D sous Unity** actuellement en développement
 
 Je m’intéresse particulièrement à :
 - la **programmation orientée objet**
 - le **développement Unity**
 - les **mécaniques de gameplay**
 
-🎯 Mon objectif : créer des **expériences interactives immersives et engageantes**.
+Mon objectif : créer des **expériences interactives immersives et engageantes**.
 
 ---
 
-## 🚀 Mes projets
+## Mes projets
 
-- 🐍 **Jeu Labyrinthe** — projet en cours  
-- 🃏 **Jeu de cartes Pokémon** — Java  
-- 🏢 **Serious Game RH** — projet universitaire  
-- ⚔️ **Zombie Samouraï** — Unity 3D (en cours)
+- **Jeu Labyrinthe** — projet en cours  
+- **Jeu de cartes Pokémon** — Java  
+- **Serious Game RH** — projet universitaire  
+- **Zombie Samouraï** — Unity 2D (en cours)
 
-➡️ Retrouve ici mes projets, allant de **petits prototypes** à des **jeux plus aboutis**.
+Retrouve ici mes projets, allant de **petits prototypes** à des **jeux plus aboutis**.
 
 ---
 
@@ -57,14 +57,15 @@ Je m’intéresse particulièrement à :
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
-📧 **Email** : maxime.lamorlette2005@gmail.com  
+**Email** : maxime.lamorlette2005@gmail.com  
 
-🌐 **Portfolio** : (bientôt en ligne 🚀)
+**Portfolio** : https://maxime-lamorlette.vercel.app
+
 
 ---
 
 <p align="center">
-  <i>Merci d’avoir visité mon profil ✨</i>
+  <i>Merci d’avoir visité mon profil </i>
 </p>

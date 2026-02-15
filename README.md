@@ -1,23 +1,49 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"  />
 </p>
 
-<h1 align="center">Hey, moi c’est Maxime Lamorlette</h1>
-<p align="center">
-Développeur passionné par le jeu vidéo | Étudiant en BUT Informatique
-</p>
+<h1>Hey, moi c’est Maxime</h1>
 
----
-
-<p align="center">
-Actuellement en deuxième année à l’IUT Robert Schuman, je développe des jeux vidéo en parallèle de mes études.  
-J’ai déjà réalisé plusieurs projets, dont un Snake en assembleur, une adaptation du jeu de plateau Labyrinthe (en cours), un jeu de cartes Pokémon en Java, ainsi qu’un jeu 3D sur Unity actuellement en développement.
+<p>
+  Développeur passionné par le jeu vidéo <br/>
+  Étudiant en BUT Informatique
 </p>
 
 ---
 
-## Ma stack technologique
+## À propos de moi
 
+Actuellement en **troisième année de BUT Informatique à l’IUT Robert Schuman**,  
+je développe des **jeux vidéo en parallèle de mes études**.
+
+J’ai déjà réalisé plusieurs projets, notamment :
+- un **Snake en assembleur**
+- une **adaptation du jeu de plateau Labyrinthe** (en cours)
+- un **jeu de cartes Pokémon en Java**
+- un **jeu 2D sous Unity** actuellement en développement
+
+Je m’intéresse particulièrement à :
+- la **programmation orientée objet**
+- le **développement Unity**
+- les **mécaniques de gameplay**
+
+Mon objectif : créer des **expériences interactives immersives et engageantes**.
+
+---
+
+## Mes projets
+
+- **Jeu Labyrinthe** — projet en cours  
+- **Jeu de cartes Pokémon** — Java  
+- **Serious Game RH** — projet universitaire  
+- **Zombie Samouraï** — Unity 2D (en cours)
+
+Retrouve ici mes projets, allant de **petits prototypes** à des **jeux plus aboutis**.
+
+---
+
+Mes technologies:
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white" />
@@ -31,28 +57,12 @@ J’ai déjà réalisé plusieurs projets, dont un Snake en assembleur, une adap
 
 ---
 
-## Mes projets
+## Me contacter
 
-- **Jeu Labyrinthe** — projet en cours  
-- **Jeu de cartes Pokémon** — Java  
-- **Serious Game RH** — projet universitaire  
-- **Zombie Samouraï** — Unity 3D (en cours)
-
+**Email** : maxime.lamorlette2005@gmail.com  
+**Portfolio** : https://maxime-lamorlette.vercel.app
 ---
 
-## Mes GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxime-Cps&show_icons=true&theme=tokyonight" />
+  <i>Merci d’avoir visité mon profil </i>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxime-Cps&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## Contact
-
-Email : maxime.lamorlette2005@gmail.com  
-Portfolio : (à mettre une fois en ligne)

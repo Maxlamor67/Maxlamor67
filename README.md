@@ -58,7 +58,7 @@ Mes technologies:
 ## Me contacter
 <p>
   Email : maxime.lamorlette2005@gmail.com 
-  <b></b>
+  <br></br>
   Portfolio : https://maxime-lamorlette.vercel.app
 </p>
 ---

@@ -9,7 +9,7 @@
   Étudiant en BUT Informatique
 </p>
 
----
+
 
 ## À propos de moi
 
@@ -29,7 +29,7 @@ Je m’intéresse particulièrement à :
 
 Mon objectif : créer des **expériences interactives immersives et engageantes**.
 
----
+
 
 ## Mes projets
 
@@ -40,7 +40,7 @@ Mon objectif : créer des **expériences interactives immersives et engageantes*
 
 Retrouve ici mes projets, allant de **petits prototypes** à des **jeux plus aboutis**.
 
----
+
 
 Mes technologies:
 <p align="center">
@@ -54,12 +54,12 @@ Mes technologies:
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
 </p>
 
----
 
 ## Me contacter
-
-**Email** : maxime.lamorlette2005@gmail.com  
-**Portfolio** : https://maxime-lamorlette.vercel.app
+<p>
+  Email : maxime.lamorlette2005@gmail.com  
+  Portfolio : https://maxime-lamorlette.vercel.app
+</p>
 ---
 
 <p align="center">

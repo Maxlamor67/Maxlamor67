@@ -14,6 +14,13 @@ Retrouvez ici mes projets, allant de petits prototypes à des jeux plus aboutis.
 
 🃏 Jeu de cartes Pokémon en Java
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-black?logo=unity" />
+</p>
+
+
 🏢 Serious game sur les RH en entreprise
 
 ⚔️ ZombiSamourai (Projet en cours, Unity 3D)
